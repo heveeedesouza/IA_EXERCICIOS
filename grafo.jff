@@ -5,24 +5,24 @@
   <automaton>
 
     <!-- STATES -->
-    <state id="0" name="Caninde"><x>100</x><y>100</y></state>
-    <state id="1" name="PocoRedondo"><x>300</x><y>100</y></state>
-    <state id="2" name="PortoDaFolha"><x>500</x><y>100</y></state>
-    <state id="3" name="FeiraNova"><x>700</x><y>100</y></state>
-    <state id="4" name="Propria"><x>500</x><y>300</y></state>
-    <state id="5" name="Capela"><x>700</x><y>300</y></state>
-    <state id="6" name="Neopolis"><x>300</x><y>300</y></state>
-    <state id="7" name="BrejoGrande"><x>500</x><y>500</y></state>
-    <state id="8" name="Itabaiana"><x>100</x><y>300</y></state>
-    <state id="9" name="Aracaju"><x>100</x><y>500</y></state>
-    <state id="10" name="Lagarto"><x>300</x><y>500</y></state>
-    <state id="11" name="SimaoDias"><x>100</x><y>700</y></state>
-    <state id="12" name="PocoVerde"><x>300</x><y>700</y></state>
-    <state id="13" name="TobiasBarreto"><x>500</x><y>700</y></state>
-    <state id="14" name="Itabaianinha"><x>700</x><y>700</y></state>
-    <state id="15" name="Cristinapolis"><x>900</x><y>700</y></state>
-    <state id="16" name="Estancia"><x>700</x><y>500</y></state>
-    <state id="17" name="Carira"><x>300</x><y>900</y></state>
+    <state id="0" name="Caninde"><x>100</x><y>100</y><label>282.84</label></state>
+    <state id="1" name="PocoRedondo"><x>300</x><y>100</y><label>200</label></state>
+    <state id="2" name="PortoDaFolha"><x>500</x><y>100</y><label>282.84</label></state>
+    <state id="3" name="FeiraNova"><x>700</x><y>100</y><label>447.21</label></state>
+    <state id="4" name="Propria"><x>500</x><y>300</y><label>200</label></state>
+    <state id="5" name="Capela"><x>700</x><y>300</y><label>400</label></state>
+    <state id="6" name="Neopolis"><x>300</x><y>300</y><label>0</label></state>
+    <state id="7" name="BrejoGrande"><x>500</x><y>500</y><label>282.84</label></state>
+    <state id="8" name="Itabaiana"><x>100</x><y>300</y><label>200</label></state>
+    <state id="9" name="Aracaju"><x>100</x><y>500</y><label>282.84</label></state>
+    <state id="10" name="Lagarto"><x>300</x><y>500</y><label>200</label></state>
+    <state id="11" name="SimaoDias"><x>100</x><y>700</y><label>447.21</label></state>
+    <state id="12" name="PocoVerde"><x>300</x><y>700</y><label>400</label></state>
+    <state id="13" name="TobiasBarreto"><x>500</x><y>700</y><label>447.21</label></state>
+    <state id="14" name="Itabaianinha"><x>700</x><y>700</y><label>565.69</label></state>
+    <state id="15" name="Cristinapolis"><x>900</x><y>700</y><label>721.11</label></state>
+    <state id="16" name="Estancia"><x>700</x><y>500</y><label>447.21</label></state>
+    <state id="17" name="Carira"><x>300</x><y>900</y><label>600</label></state>
 
     <!-- TRANSITIONS (BIDIRECTIONAL) -->
 
