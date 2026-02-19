@@ -22,8 +22,6 @@
     <state id="16" name="Estancia"><x>700</x><y>500</y><label>447.21</label></state>
     <state id="17" name="Carira"><x>300</x><y>900</y><label>600</label></state>
 
-    <!-- TRANSITIONS (BIDIRECTIONAL) -->
-
     <transition><from>0</from><to>1</to><read>20.35</read></transition>
     <transition><from>1</from><to>0</to><read>20.35</read></transition>
 
